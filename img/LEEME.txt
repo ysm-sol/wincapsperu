@@ -1,9 +1,0 @@
-Sube aquí tus fotos con estos nombres exactos:
-logo.png
-nosotros.jpg
-azul-logo-rasta.jpg
-beige-varsity-w.jpg
-black-usa-glory.jpg
-red-retro-neon.jpg
-royal-blue-el-dinero.jpg
-(Si una foto es .png o .webp, cambia la extensión en js/productos.js)
